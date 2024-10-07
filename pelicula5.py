@@ -16,3 +16,16 @@ plt.ylabel('Average Rating')
 plt.xticks(rotation=90)
 plt.tight_layout()
 plt.show()
+
+
+""""Gráfico de líneas (Valoración promedio de películas del dataset de "movie"):
+
+Calificaciones diversas: Las valoraciones promedio de las películas varían considerablemente, indicando
+ una diferencia en la calidad percibida por los espectadores.
+
+Películas con alta valoración: Las películas con una mayor puntuación pueden estar asociadas a 
+un éxito crítico o comercial, reflejando la satisfacción del público.
+
+Tendencia en puntuaciones: Al comparar las películas con mayor y menor valoración, se puede observar qué 
+características o géneros podrían tener más éxito en cuanto a la respuesta de la audiencia.
+"""

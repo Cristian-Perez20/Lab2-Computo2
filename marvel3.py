@@ -31,3 +31,15 @@ for i, value in enumerate(runtime_data['RunTime']):
 # Asegurarse de que el gráfico se vea bien
 plt.tight_layout()
 plt.show()
+
+
+"""". Gráfico de barras (RunTime de películas/series de Marvel Vs DC):
+
+Duración variable: Las películas y series tienen duraciones diferentes, 
+lo que refleja la diversidad en el tipo de contenido producido.
+
+Películas largas: Las películas más largas podrían corresponder 
+a eventos importantes en los universos cinematográficos.
+
+Estrategias de contenido: Algunas películas más cortas podrían enfocarse en tramas ligeras o 
+acción rápida, mientras que las largas buscan desarrollar más la historia."""
